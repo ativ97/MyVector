@@ -1,0 +1,2 @@
+﻿  unittest1.cpp
+f:\uic\spring 2018\cs 341\proj 3\myvectorunittest\myvector\myvector.h(123): error C4716: 'myvector<int>::operator[]': must return a value
